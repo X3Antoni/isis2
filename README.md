@@ -7,6 +7,11 @@ Bobot Asistensi: 20%
 
 ====================
 Untuk mengunduh semua file, klik tombol warna hijau [Clone or download], lalu klik Download ZIP.
-Untuk membuka `kunci_jawaban_a` atau `kunci_jawaban_b` yang hanya anda perlu lakukan adalah tinggal klik! GitHub akan dengan sendiri merender file .ipynb sehingga bisa dibaca. Aku harap bisa dibuka di web browser pilihan kalian masing-masing (atur desktop mode, jangan mobile mode kalau buka di smartphone).
 
-Why I use .ipynb? Namanya juga coba-coba. :D
+File `kunci_jawaban_a.ipynb` dan `kunci_jawaban_b.ipynb` hanya bisa diakses di web-browser. Untuk membuka file tersebut tinggal klik, lalu tunggu. Nanti akan keluar hasil render-an dari GitHub.
+
+Q: Why I use .ipynb?
+A: Namanya juga coba-coba. :D
+
+Q: Adakan versi word-nya untuk `kunci_jawaban`?
+A: Hmmm... tidak.
