@@ -10,8 +10,5 @@ Untuk mengunduh semua file, klik tombol warna hijau [Clone or download], lalu kl
 
 File `kunci_jawaban_a.ipynb` dan `kunci_jawaban_b.ipynb` hanya bisa diakses di web-browser. Untuk membuka file tersebut tinggal klik, lalu tunggu. Nanti akan keluar hasil render-an dari GitHub.
 
-Q: Why I use .ipynb?
-A: Namanya juga coba-coba. :D
-
 Q: Adakan versi word-nya untuk `kunci_jawaban`?
-A: Hmmm... tidak.
+A: Hmmm... tidak untuk dalam waktu dekat ini.
