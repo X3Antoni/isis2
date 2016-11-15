@@ -12,3 +12,7 @@ File `kunci_jawaban_a.ipynb` dan `kunci_jawaban_b.ipynb` hanya bisa diakses di w
 
 Q: Adakan versi word-nya untuk `kunci_jawaban`?
 A: Hmmm... tidak untuk dalam waktu dekat ini.
+
+Pengumuman!
+---
+Jika segalanya dimudahkan oleh YMK (-_-) hari Jumat minggu depan (25/11) aku share nilai praktikum kalian.
